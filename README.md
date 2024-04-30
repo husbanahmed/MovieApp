@@ -18,34 +18,40 @@ This is a React Native movie app that allows users to search for movies, view tr
 
 2. Installation :
 
--npm install
+   -npm install
 
--npm i react-native-snap-carousel@4.0.0-beta.6
+   -npm i react-native-snap-carousel@4.0.0-beta.6
 
--npm install react-native-paper
+   -npm install react-native-paper
 
--npm install react-native-safe-area-context
+   -npm install react-native-safe-area-context
 
--npm install @reduxjs/toolkit
+   -npm install @reduxjs/toolkit
 
--npm install @react-navigation/native
+   -npm install @react-navigation/native
 
--npm install -g expo-cli
+   -npm install -g expo-cli
 
 ## Screenshots
 
 IOS-
 
 ![Home Screen iOS](screenshots/screenshot_home_bottom_ios.png)
+
 ![Home Bottom Screen iOS](screenshots/screenshot_home_ios.png)
+
 ![Search Screen iOS](screenshots/screenshot_search_screen_ios.png)
+
 ![Movie Screen iOS](screenshots/screenshot_movie_screen_ios.png)
 
 ANDROID-
 
 ![Home Screen Android](screenshots/screenshot_home_screen_android.png)
+
 ![Home Bottom Screen Android](screenshots/screenshot_home_bottom_screen_android.png)
+
 ![Search Screen Android](screenshots/screenshot_search_screen_android.png)
+
 ![Movie Screen Android](screenshots/screenshot_movie_screen_android.png)
 
 ## License
