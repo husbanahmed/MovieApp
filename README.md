@@ -9,20 +9,28 @@ This is a React Native movie app that allows users to search for movies, view tr
 - Top rated movies
 - Movie search
 - Movie details
+- Favorites list
 
 ## Setup
 
 1. Clone the repository:
    -git clone https://github.com/husbanahmed/MovieApp.git
 
-2. Installation
-   -npm install
-   -npm i react-native-snap-carousel@4.0.0-beta.6
-   -npm install react-native-paper
-   -npm install react-native-safe-area-context
-   -npm install @reduxjs/toolkit
-   -npm install @react-navigation/native
-   -npm install -g expo-cli
+2. Installation :
+
+-npm install
+
+-npm i react-native-snap-carousel@4.0.0-beta.6
+
+-npm install react-native-paper
+
+-npm install react-native-safe-area-context
+
+-npm install @reduxjs/toolkit
+
+-npm install @react-navigation/native
+
+-npm install -g expo-cli
 
 ## Screenshots
 
